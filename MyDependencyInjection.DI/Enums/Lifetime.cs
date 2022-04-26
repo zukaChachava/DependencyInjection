@@ -1,4 +1,4 @@
-namespace DI.Enums;
+namespace MyDependencyInjection.DI.Enums;
 
 public enum Lifetime
 {

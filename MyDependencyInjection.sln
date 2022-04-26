@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDependencyInjection.CApp", "MyDependencyInjection.CApp\MyDependencyInjection.CApp.csproj", "{15E4677B-794B-482E-82DC-E09DBCCFF849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI.csproj", "{35DAEC83-020E-47CB-A710-7611EF9FF354}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDependencyInjection.DI", "MyDependencyInjection.DI\MyDependencyInjection.DI.csproj", "{35DAEC83-020E-47CB-A710-7611EF9FF354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

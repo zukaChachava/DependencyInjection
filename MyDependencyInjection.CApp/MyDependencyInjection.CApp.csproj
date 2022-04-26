@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MyDependencyInjection.DI\MyDependencyInjection.DI.csproj" />
+    </ItemGroup>
+
 </Project>
